@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+node_modules/
 
 # testing
 /coverage
@@ -51,3 +52,4 @@ bun.lockb
 # python
 agent/venv/
 agent/__pycache__/
+.venv/
